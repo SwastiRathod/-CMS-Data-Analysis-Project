@@ -1,9 +1,9 @@
 // -*- C++ -*-
 //
-// Package:    Test/MiniAnalyzer
-// Class:      MiniAnalyzer
+// Package:    Demo/DemoAnalyzer
+// Class:      DemoAnalyzer
 //
-/**\class MiniAnalyzer MiniAnalyzer.cc Test/MiniAnalyzer/plugins/MiniAnalyzer.cc
+/**\class DemoAnalyzer DemoAnalyzer.cc Demo/DemoAnalyzer/plugins/MiniAnalyzer.cc
 
  Description: [one line class summary]
 
