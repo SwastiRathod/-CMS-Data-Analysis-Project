@@ -1,0 +1,17 @@
+<use name="FWCore/Framework"/>
+<use name="FWCore/ParameterSet"/>
+<use name="DataFormats/PatCandidates"/>
+<use name="DataFormats/VertexReco"/>
+<use name="DataFormats/Common"/>
+<use name="DataFormats/GeometryVector"/>
+<use name="DataFormats/Math"/>
+<use name="FWCore/ServiceRegistry"/>
+<use name="FWCore/Utilities"/>
+<use name="CommonTools/UtilAlgos"/>
+<use name="CommonTools/Utils"/>
+<use name="SimDataFormats/GeneratorProducts"/>
+<use name="TrackingTools/TransientTrack"/>
+<use name="DataFormats/TrackReco"/>
+<use name="DataFormats/TrackReco"/>
+<use name="DataFormats/TrackCandidate"/>
+<use name="DataFormats/TrackingRecHit"/>
