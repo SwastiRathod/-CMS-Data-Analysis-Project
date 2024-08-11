@@ -1,0 +1,81 @@
+(/code/CMSSW_10_6_30/src/Test/MiniAnalyzer) cmsRun python/ConfFile_cfg.py
+25-Jun-2024 12:30:59 CEST  Initiating request to open file root://eospublic.cern.ch//eos/opendata/cms/MonteCarlo2016/RunIISummer16MiniAODv2/QCD_Pt_300to470_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6-v1/80000/008761B6-F5B4-E611-AC01-0CC47A706D26.root
+240625 12:31:03 165 secgsi_InitProxy: cannot access private key file: /home/cmsusr/.globus/userkey.pem
+25-Jun-2024 12:32:00 CEST  Successfully opened file root://eospublic.cern.ch//eos/opendata/cms/MonteCarlo2016/RunIISummer16MiniAODv2/QCD_Pt_300to470_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6-v1/80000/008761B6-F5B4-E611-AC01-0CC47A706D26.root
+Begin processing the 1st record. Run 1, Event 43202, LumiSection 301 on stream 0 at 25-Jun-2024 12:33:23.577 CEST
+Begin processing the 1001st record. Run 1, Event 403426, LumiSection 2802 on stream 0 at 25-Jun-2024 12:34:45.997 CEST
+Begin processing the 2001st record. Run 1, Event 4670858, LumiSection 32437 on stream 0 at 25-Jun-2024 12:34:46.188 CEST
+Begin processing the 3001st record. Run 1, Event 5047896, LumiSection 35055 on stream 0 at 25-Jun-2024 12:34:46.350 CEST
+Begin processing the 4001st record. Run 1, Event 4966906, LumiSection 34493 on stream 0 at 25-Jun-2024 12:34:46.487 CEST
+Begin processing the 5001st record. Run 1, Event 5050564, LumiSection 35073 on stream 0 at 25-Jun-2024 12:34:46.628 CEST
+Begin processing the 6001st record. Run 1, Event 5215923, LumiSection 36222 on stream 0 at 25-Jun-2024 12:34:46.753 CEST
+Begin processing the 7001st record. Run 1, Event 5637426, LumiSection 39149 on stream 0 at 25-Jun-2024 12:34:46.924 CEST
+Begin processing the 8001st record. Run 1, Event 5804888, LumiSection 40312 on stream 0 at 25-Jun-2024 12:34:47.055 CEST
+Begin processing the 9001st record. Run 1, Event 861595, LumiSection 5983 on stream 0 at 25-Jun-2024 12:34:47.195 CEST
+Begin processing the 10001st record. Run 1, Event 1044610, LumiSection 7255 on stream 0 at 25-Jun-2024 12:34:47.348 CEST
+Begin processing the 11001st record. Run 1, Event 2747803, LumiSection 19082 on stream 0 at 25-Jun-2024 12:34:47.495 CEST
+Begin processing the 12001st record. Run 1, Event 4790430, LumiSection 33267 on stream 0 at 25-Jun-2024 12:34:47.666 CEST
+Begin processing the 13001st record. Run 1, Event 4475785, LumiSection 31082 on stream 0 at 25-Jun-2024 12:34:47.830 CEST
+Begin processing the 14001st record. Run 1, Event 5331857, LumiSection 37027 on stream 0 at 25-Jun-2024 12:34:47.956 CEST
+Begin processing the 15001st record. Run 1, Event 5832912, LumiSection 40507 on stream 0 at 25-Jun-2024 12:34:48.122 CEST
+Begin processing the 16001st record. Run 1, Event 521465, LumiSection 3621 on stream 0 at 25-Jun-2024 12:34:48.259 CEST
+Begin processing the 17001st record. Run 1, Event 1860313, LumiSection 12919 on stream 0 at 25-Jun-2024 12:34:48.438 CEST
+Begin processing the 18001st record. Run 1, Event 4935715, LumiSection 34276 on stream 0 at 25-Jun-2024 12:34:48.639 CEST
+Begin processing the 19001st record. Run 1, Event 4229384, LumiSection 29371 on stream 0 at 25-Jun-2024 12:34:48.816 CEST
+Begin processing the 20001st record. Run 1, Event 4984371, LumiSection 34614 on stream 0 at 25-Jun-2024 12:34:48.959 CEST
+Begin processing the 21001st record. Run 1, Event 5030098, LumiSection 34931 on stream 0 at 25-Jun-2024 12:34:49.098 CEST
+Begin processing the 22001st record. Run 1, Event 598866, LumiSection 4159 on stream 0 at 25-Jun-2024 12:34:49.252 CEST
+Begin processing the 23001st record. Run 1, Event 705185, LumiSection 4897 on stream 0 at 25-Jun-2024 12:40:07.152 CEST
+Begin processing the 24001st record. Run 1, Event 718856, LumiSection 4993 on stream 0 at 25-Jun-2024 12:40:07.346 CEST
+Begin processing the 25001st record. Run 1, Event 2189981, LumiSection 15209 on stream 0 at 25-Jun-2024 12:40:07.512 CEST
+Begin processing the 26001st record. Run 1, Event 2293316, LumiSection 15926 on stream 0 at 25-Jun-2024 12:40:07.691 CEST
+Begin processing the 27001st record. Run 1, Event 2601899, LumiSection 18069 on stream 0 at 25-Jun-2024 12:41:17.936 CEST
+Begin processing the 28001st record. Run 1, Event 4247862, LumiSection 29499 on stream 0 at 25-Jun-2024 12:41:18.048 CEST
+Begin processing the 29001st record. Run 1, Event 5994811, LumiSection 41631 on stream 0 at 25-Jun-2024 12:41:18.184 CEST
+Begin processing the 30001st record. Run 1, Event 1655272, LumiSection 11495 on stream 0 at 25-Jun-2024 12:41:18.364 CEST
+Begin processing the 31001st record. Run 1, Event 3004977, LumiSection 20868 on stream 0 at 25-Jun-2024 12:41:18.508 CEST
+Begin processing the 32001st record. Run 1, Event 4644634, LumiSection 32255 on stream 0 at 25-Jun-2024 12:41:18.728 CEST
+Begin processing the 33001st record. Run 1, Event 5463180, LumiSection 37939 on stream 0 at 25-Jun-2024 12:41:18.853 CEST
+Begin processing the 34001st record. Run 1, Event 5807666, LumiSection 40331 on stream 0 at 25-Jun-2024 12:41:18.995 CEST
+Begin processing the 35001st record. Run 1, Event 1084609, LumiSection 7533 on stream 0 at 25-Jun-2024 12:41:19.210 CEST
+Begin processing the 36001st record. Run 1, Event 2004814, LumiSection 13923 on stream 0 at 25-Jun-2024 12:41:19.392 CEST
+Begin processing the 37001st record. Run 1, Event 2236705, LumiSection 15533 on stream 0 at 25-Jun-2024 12:41:19.536 CEST
+Begin processing the 38001st record. Run 1, Event 3484168, LumiSection 24196 on stream 0 at 25-Jun-2024 12:41:19.672 CEST
+Begin processing the 39001st record. Run 1, Event 3496688, LumiSection 24283 on stream 0 at 25-Jun-2024 12:41:19.811 CEST
+Begin processing the 40001st record. Run 1, Event 3666633, LumiSection 25463 on stream 0 at 25-Jun-2024 12:41:19.952 CEST
+Begin processing the 41001st record. Run 1, Event 3706225, LumiSection 25738 on stream 0 at 25-Jun-2024 12:41:20.085 CEST
+Begin processing the 42001st record. Run 1, Event 4721074, LumiSection 32785 on stream 0 at 25-Jun-2024 12:41:20.261 CEST
+Begin processing the 43001st record. Run 1, Event 5512435, LumiSection 38281 on stream 0 at 25-Jun-2024 12:41:20.399 CEST
+Begin processing the 44001st record. Run 1, Event 5938520, LumiSection 41240 on stream 0 at 25-Jun-2024 12:41:20.515 CEST
+Begin processing the 45001st record. Run 1, Event 3551825, LumiSection 24666 on stream 0 at 25-Jun-2024 12:41:20.715 CEST
+Begin processing the 46001st record. Run 1, Event 3788035, LumiSection 26306 on stream 0 at 25-Jun-2024 12:43:55.061 CEST
+Begin processing the 47001st record. Run 1, Event 3880907, LumiSection 26951 on stream 0 at 25-Jun-2024 12:43:55.203 CEST
+Begin processing the 48001st record. Run 1, Event 5010090, LumiSection 34793 on stream 0 at 25-Jun-2024 12:43:55.343 CEST
+Begin processing the 49001st record. Run 1, Event 5628940, LumiSection 39090 on stream 0 at 25-Jun-2024 12:43:55.520 CEST
+Begin processing the 50001st record. Run 1, Event 3658289, LumiSection 25405 on stream 0 at 25-Jun-2024 12:43:55.682 CEST
+Begin processing the 51001st record. Run 1, Event 4962113, LumiSection 34459 on stream 0 at 25-Jun-2024 12:43:55.823 CEST
+Begin processing the 52001st record. Run 1, Event 5645012, LumiSection 39202 on stream 0 at 25-Jun-2024 12:43:55.958 CEST
+Begin processing the 53001st record. Run 1, Event 5735114, LumiSection 39827 on stream 0 at 25-Jun-2024 12:43:56.095 CEST
+Begin processing the 54001st record. Run 1, Event 5755323, LumiSection 39968 on stream 0 at 25-Jun-2024 12:43:58.924 CEST
+Begin processing the 55001st record. Run 1, Event 5821322, LumiSection 40426 on stream 0 at 25-Jun-2024 12:43:59.059 CEST
+25-Jun-2024 12:43:59 CEST  Closed file root://eospublic.cern.ch//eos/opendata/cms/MonteCarlo2016/RunIISummer16MiniAODv2/QCD_Pt_300to470_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6-v1/80000/008761B6-F5B4-E611-AC01-0CC47A706D26.root
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 fileAction           -s file_close                             1        1
+    2 fileAction           -s file_open                              2        2
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 fileAction           PostGlobalEndRun
+    2 fileAction           pre-events       pre-events
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+System                  3                   3
+
+dropped waiting message count 0
