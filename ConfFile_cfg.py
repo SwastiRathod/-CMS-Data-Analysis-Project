@@ -2,7 +2,7 @@ import FWCore.ParameterSet.Config as cms
 
 process = cms.Process("Demo")
 
-#Something which we need to add acoording our objective
+#We need to add acoording our objective
 process.load("FWCore.MessageService.MessageLogger_cfi")
 process.load("Configuration.EventContent.EventContent_cff")
 process.load('Configuration.StandardSequences.Services_cff')
@@ -26,12 +26,8 @@ process.source = cms.Source("PoolSource",
                                 'root://eospublic.cern.ch//eos/opendata/cms/mc/RunIISummer20UL16MiniAODv2/QCD_Pt_470to600_TuneCP5_13TeV_pythia8/MINIAODSIM/106X_mcRun2_asymptotic_v17-v1/120000/10325CC6-EC2F-F142-B732-BC7693B00E48.root',
                                 'root://eospublic.cern.ch//eos/opendata/cms/mc/RunIISummer20UL16MiniAODv2/QCD_Pt_470to600_TuneCP5_13TeV_pythia8/MINIAODSIM/106X_mcRun2_asymptotic_v17-v1/130000/06D647E8-AF59-A244-BBFA-9DF55CBABE1B.root'
                      ]))
-#Something which we need to add
 process.demo = cms.EDAnalyzer('MiniAnalyzer',
                               vertices = cms.InputTag("offlineSlimmedPrimaryVertices"),
                               secondaryVertices = cms.InputTag("slimmedSecondaryVertices"))
 
 process.p = cms.Path(process.demo)
-
-# Schedule definition shud be added (why - to define schedule othws by default this will be executed)
-process.schedule = cms.Schedule(process.p)
