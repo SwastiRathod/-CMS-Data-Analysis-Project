@@ -2,7 +2,7 @@ import FWCore.ParameterSet.Config as cms
 
 process = cms.Process("Demo")
 
-#We need to add acoording our objective
+#We need to add acoording to our objective
 process.load("FWCore.MessageService.MessageLogger_cfi")
 process.load("Configuration.EventContent.EventContent_cff")
 process.load('Configuration.StandardSequences.Services_cff')
