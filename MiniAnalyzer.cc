@@ -10,7 +10,7 @@
  Implementation:
      [Notes on implementation]
 */
-//
+// Author details:
 // Original Author: 
 //         Created:  Thu, 01 Feb 2024 02:16:09 GMT
 //
